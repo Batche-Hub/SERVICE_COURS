@@ -1,0 +1,9 @@
+fr\doranco\jaxws\dao\ICoursDAO.class
+fr\doranco\jaxws\main\Test.class
+fr\doranco\jaxws\ICoursService.class
+fr\doranco\jaxws\dao\CoursDAO.class
+fr\doranco\enums\TYPESCOURS.class
+fr\doranco\jaxws\connexion\JaxwsDataSource.class
+fr\doranco\jaxws\main\CoursWebServicePublisher.class
+fr\doranco\entity\Cours.class
+fr\doranco\jaxws\CoursService.class
